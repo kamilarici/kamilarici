@@ -15,6 +15,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
      <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bootstrap_aladdinGene.png" width="60" alt="bootstrap" /> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" alt="sass" />
   </div>  
   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
