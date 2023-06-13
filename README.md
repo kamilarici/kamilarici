@@ -27,9 +27,9 @@ You may find some projects on my repos, feel free to contribute or using them. K
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Google-Landing-Page](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)<h3>[Repo](https://kamilarici.github.io/google/)</h3> | HTML, CSS |![Animation taş](https://user-images.githubusercontent.com/118935193/213815321-09feac7b-80c9-4da1-b709-12079f7a22c4.gif)
-[clarusway_pats ](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)<h3>[Repo]( https://kamilarici.github.io/teamwork-uygulama1/)</h3> | HTML, CSS | ![Animation pa](https://user-images.githubusercontent.com/118935193/216319104-ea60391d-fba6-46bc-a99c-f6237f9887b3.gif)
+[Live Link](https://kamilarici.github.io/teamwork-uygulama1/)<h3>[Repo]( https://kamilarici.github.io/teamwork-uygulama1/)</h3> | HTML, CSS | ![Animation pa](https://user-images.githubusercontent.com/118935193/216319104-ea60391d-fba6-46bc-a99c-f6237f9887b3.gif)
 [Live Link](https://kamilarici.github.io/netflix-form/)<h3>[Repo](https://kamilarici.github.io/netflix-form/)</h3> | HTML, CSS |  ![Animation n](https://user-images.githubusercontent.com/118935193/214693643-913d0f24-aa23-4df5-9ddf-3e8faf4353e3.gif)
-[Parallax Website](https://645b82573d372716086592f8--frolicking-lamington-53190b.netlify.app/) <h3>[Repo](https://kamilarici.github.io/tw-2/)</h3> | HTML, CSS |![parallax_website](https://github.com/DurmusFurkanOzkan/Parallax_Website/blob/master/parallax_project_gif.gif)
+[Live Link](https://kamilarici.github.io/tw-2/) <h3>[Repo](https://kamilarici.github.io/tw-2/)</h3> | HTML, CSS |![parallax_website](https://github.com/DurmusFurkanOzkan/Parallax_Website/blob/master/parallax_project_gif.gif)
 [Live Link](https://kamilarici.github.io/cw-assignment1/)| HTML,CSS | [Basic Portfolio Page](https://kamilarici.github.io/cw-assignment1/)
 [Live Link](https://kamilarici.github.io/pos-fix1/)| HTML,CSS | [pos-fix](https://kamilarici.github.io/pos-fix1/)
 [Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Design](https://kamilarici.github.io/tw3-20-05/)
