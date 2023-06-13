@@ -27,7 +27,6 @@ You may find some projects on my repos, feel free to contribute or using them. K
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Live Link](https://kamilarici.github.io/js-event/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/js-event/)
-
 [Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/proje-bellona/)
 [Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS | [Design](https://kamilarici.github.io/TW4/)
 [Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Design](https://kamilarici.github.io/tw3-20-05/)
