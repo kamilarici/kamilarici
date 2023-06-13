@@ -26,6 +26,10 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[Live Link]([Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | [Design] (https://kamilarici.github.io/js-event/)) 
+[Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/proje-bellona/)
+[Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS | [Design](https://kamilarici.github.io/TW4/)
+[Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Design](https://kamilarici.github.io/tw3-20-05/)
 [Live Link](https://kamilarici.github.io/google/)<h3>[Repo](https://kamilarici.github.io/google/)</h3> | HTML, CSS |![Animation taş](https://user-images.githubusercontent.com/118935193/213815321-09feac7b-80c9-4da1-b709-12079f7a22c4.gif)
 [Live Link](https://kamilarici.github.io/teamwork-uygulama1/)<h3>[Repo]( https://kamilarici.github.io/teamwork-uygulama1/)</h3> | HTML, CSS | ![Animation pa](https://user-images.githubusercontent.com/118935193/216319104-ea60391d-fba6-46bc-a99c-f6237f9887b3.gif)
 [Live Link](https://kamilarici.github.io/netflix-form/)<h3>[Repo](https://kamilarici.github.io/netflix-form/)</h3> | HTML, CSS |  ![Animation n](https://user-images.githubusercontent.com/118935193/214693643-913d0f24-aa23-4df5-9ddf-3e8faf4353e3.gif)
