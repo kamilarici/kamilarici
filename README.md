@@ -26,7 +26,11 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://kamilarici.github.io/js-event/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/js-event/)
+[Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/sass-2-proje/)
+[Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/gider-uyg/)
+[Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/tw5-2/)
+[Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/bootstrap-3/)
+[Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/js-event/)
 [Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/proje-bellona/)
 [Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS | [Design](https://kamilarici.github.io/TW4/)
 [Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Design](https://kamilarici.github.io/tw3-20-05/)
@@ -38,5 +42,5 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/pos-fix1/)| HTML,CSS | [pos-fix](https://kamilarici.github.io/pos-fix1/)
 [Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Design](https://kamilarici.github.io/tw3-20-05/)
 
-
+https://kamilarici.github.io/gider-uyg/
 <h3 align="center">📈 Statistics:</h3>
