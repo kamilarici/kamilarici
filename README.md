@@ -26,8 +26,8 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/sass-2-proje/)
-[Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/gider-uyg/)
+[Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | [Design](https://kamilarici.github.io/sass-2-proje/)
+[Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | [Design](https://kamilarici.github.io/gider-uyg/)
 [Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/tw5-2/)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/bootstrap-3/)
 [Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/js-event/)
