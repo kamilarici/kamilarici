@@ -26,21 +26,20 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | [Design](https://kamilarici.github.io/sass-2-proje/)
-[Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | [Design](https://kamilarici.github.io/gider-uyg/)
-[Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/tw5-2/)
-[Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/bootstrap-3/)
-[Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | [Design](https://kamilarici.github.io/js-event/)
-[Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | [Design](https://kamilarici.github.io/proje-bellona/)
-[Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS | [Design](https://kamilarici.github.io/TW4/)
-[Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Design](https://kamilarici.github.io/tw3-20-05/)
+[Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | [Travel Web Site](https://kamilarici.github.io/sass-2-proje/)
+[Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | [Bütçe Takip Uygulaması](https://kamilarici.github.io/gider-uyg/)
+[Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | [Sayı Tahmin Oyunu](https://kamilarici.github.io/tw5-2/)
+[Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Meyve Bahçesi Web Sitesi](https://kamilarici.github.io/bootstrap-3/)
+[Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | [JS-Click-Mouse Uygulaması](https://kamilarici.github.io/js-event/)
+[Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | [Bellona Web Sitesi](https://kamilarici.github.io/proje-bellona/)
+[Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS,BOOTSTRAP | [Hesap Makinası](https://kamilarici.github.io/TW4/)
 [Live Link](https://kamilarici.github.io/google/)<h3>[Repo](https://kamilarici.github.io/google/)</h3> | HTML, CSS |![Animation taş](https://user-images.githubusercontent.com/118935193/213815321-09feac7b-80c9-4da1-b709-12079f7a22c4.gif)
 [Live Link](https://kamilarici.github.io/teamwork-uygulama1/)<h3>[Repo]( https://kamilarici.github.io/teamwork-uygulama1/)</h3> | HTML, CSS | ![Animation pa](https://user-images.githubusercontent.com/118935193/216319104-ea60391d-fba6-46bc-a99c-f6237f9887b3.gif)
 [Live Link](https://kamilarici.github.io/netflix-form/)<h3>[Repo](https://kamilarici.github.io/netflix-form/)</h3> | HTML, CSS |  ![Animation n](https://user-images.githubusercontent.com/118935193/214693643-913d0f24-aa23-4df5-9ddf-3e8faf4353e3.gif)
 [Live Link](https://kamilarici.github.io/tw-2/) <h3>[Repo](https://kamilarici.github.io/tw-2/)</h3> | HTML, CSS |![parallax_website](https://github.com/DurmusFurkanOzkan/Parallax_Website/blob/master/parallax_project_gif.gif)
 [Live Link](https://kamilarici.github.io/cw-assignment1/)| HTML,CSS | [Basic Portfolio Page](https://kamilarici.github.io/cw-assignment1/)
 [Live Link](https://kamilarici.github.io/pos-fix1/)| HTML,CSS | [pos-fix](https://kamilarici.github.io/pos-fix1/)
-[Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Design](https://kamilarici.github.io/tw3-20-05/)
+[Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Flex-Web Design](https://kamilarici.github.io/tw3-20-05/)
 
 https://kamilarici.github.io/gider-uyg/
 <h3 align="center">📈 Statistics:</h3>
