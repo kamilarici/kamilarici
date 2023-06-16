@@ -41,5 +41,4 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/pos-fix1/)| HTML,CSS | [pos-fix](https://kamilarici.github.io/pos-fix1/)
 [Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Flex-Web Design](https://kamilarici.github.io/tw3-20-05/)
 
-https://kamilarici.github.io/gider-uyg/
 <h3 align="center">📈 Statistics:</h3>
