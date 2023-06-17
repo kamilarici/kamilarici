@@ -45,6 +45,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Flex-Web Design](https://kamilarici.github.io/tw3-20-05/)
 
 <h3 align="center">📈 Statistics:</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <div  align="center">
 <br/>
 
