@@ -45,6 +45,8 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Flex-Web Design](https://kamilarici.github.io/tw3-20-05/)
 
 <h3 align="center">📈 Statistics:</h3>
+<div  align="center">
+<br/>
 
 <img
      src="https://github-readme-stats.vercel.app/api?username=kamilarici&theme=blue-green"
