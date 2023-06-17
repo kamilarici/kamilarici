@@ -19,6 +19,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
      <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" alt="figma" />
+    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs-code" height="50"/> </a> 
   </div>  
   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
