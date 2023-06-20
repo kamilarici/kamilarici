@@ -6,6 +6,8 @@
 
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡
 
+#### 📬 Connect with me:
+
 [![LinkedIn - kamil arıcı](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-ar%C4%B1c%C4%B1-890097277/)
 
 
