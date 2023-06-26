@@ -40,7 +40,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | [Travel Web Site](https://kamilarici.github.io/sass-2-proje/)
 [Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | [Bütçe Takip Uygulaması](https://kamilarici.github.io/gider-uyg/)
-[Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | [Sayı Tahmin Oyunu](https://kamilarici.github.io/tw5-2/)
+[Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | ![hesap makinası](https://github.com/kamilarici/tw5-2/assets/129012602/db4cb644-390b-40a3-8d6c-a10b1ebcd19a)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Meyve Bahçesi Web Sitesi](https://kamilarici.github.io/bootstrap-3/)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP |![gif](https://github.com/kamilarici/bootstrap-3/assets/129012602/29a0143e-f3c5-45db-987e-6f32c77dfb98)
 [Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | [JS-Click-Mouse Uygulaması](https://kamilarici.github.io/js-event/)
