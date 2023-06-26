@@ -1,5 +1,9 @@
  ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+kamil;Welcome+to+my+Github+profile;I'm+a+Frontend+Developer...;)
 
+
+ <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+ 
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolga-Ozd&label=Profile%20views&color=0e75b6&style=flat" alt="tolga" /> </p>
 
 ✨ kamil here ✨ I'm a junior frontend developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
