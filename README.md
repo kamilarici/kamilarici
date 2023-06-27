@@ -44,7 +44,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | ![hesap makinası](https://github.com/kamilarici/tw5-2/assets/129012602/db4cb644-390b-40a3-8d6c-a10b1ebcd19a)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Meyve Bahçesi Web Sitesi](https://kamilarici.github.io/bootstrap-3/)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP |![gif](https://github.com/kamilarici/bootstrap-3/assets/129012602/29a0143e-f3c5-45db-987e-6f32c77dfb98)
-[Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | [JS-Click-Mouse Uygulaması](https://kamilarici.github.io/js-event/)
+[Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | ![click](https://github.com/kamilarici/js-event/assets/129012602/bb60489e-b8b8-4119-8b8b-d716c7a66c3b)
 [Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | [Bellona Web Sitesi](https://kamilarici.github.io/proje-bellona/)
 [Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS,BOOTSTRAP | ![hesap makinası](https://github.com/kamilarici/tw7-1/assets/129012602/d4acdbdf-9143-4b9e-989e-6202025d9d16)
 [Live Link](https://kamilarici.github.io/google/)<h3>[Repo](https://kamilarici.github.io/google/)</h3> | HTML, CSS |![Animation taş](https://user-images.githubusercontent.com/118935193/213815321-09feac7b-80c9-4da1-b709-12079f7a22c4.gif)
