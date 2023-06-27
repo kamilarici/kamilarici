@@ -53,7 +53,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/tw-2/) <h3>[Repo](https://kamilarici.github.io/tw-2/)</h3> | HTML, CSS |![parallax_website](https://github.com/DurmusFurkanOzkan/Parallax_Website/blob/master/parallax_project_gif.gif)
 [Live Link](https://kamilarici.github.io/cw-assignment1/)| HTML,CSS | ![portfolio](https://github.com/kamilarici/cw-assignment1/assets/129012602/ed2f26a2-5e14-436f-9bf5-dfbc7f194332)
 [Live Link](https://kamilarici.github.io/pos-fix1/)| HTML,CSS | [pos-fix](https://kamilarici.github.io/pos-fix1/)
-[Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS | [Flex-Web Design](https://kamilarici.github.io/tw3-20-05/)
+[Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS |![web](https://github.com/kamilarici/tw3-20-05/assets/129012602/bd30afe6-8024-4992-bcc4-73e6b4f32cdb)
 
 <h3 align="center">📈 Statistics:</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
