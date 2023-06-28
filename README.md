@@ -43,6 +43,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | [Travel Web Site](https://kamilarici.github.io/sass-2-proje/)
 [Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | ![bütçe](https://github.com/kamilarici/gider-uyg/assets/129012602/2a0be83a-a944-4574-b34b-a7c0bcea2138)
 [Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | ![guess](https://github.com/kamilarici/tw5-2/assets/129012602/ad99c658-c09e-439d-9f2d-864ce85faeff)
+[Live Link](https://kamilarici.github.io/sepet-uygulamas-/)| HTML,JAVASCRİPT | ![sepet](https://github.com/kamilarici/sepet-uygulamas-/assets/129012602/0c2a3b3f-ed53-4ab1-8b09-b69a36004587)
 [Live Link](https://kamilarici.github.io/weader/)| HTML,CSS,JAVASCRİPT | ![weader](https://github.com/kamilarici/weader/assets/129012602/458d8266-12b9-4d8e-af8c-31a1ce9512fd)
 [Live Link](https://kamilarici.github.io/to-do/)| HTML,CSS,JAVASCRİPT | ![todo](https://github.com/kamilarici/to-do/assets/129012602/bf30bbff-4c5d-4d66-af61-ecadabab5f7f)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP |![gif](https://github.com/kamilarici/bootstrap-3/assets/129012602/29a0143e-f3c5-45db-987e-6f32c77dfb98)
