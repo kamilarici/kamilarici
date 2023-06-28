@@ -43,7 +43,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | [Travel Web Site](https://kamilarici.github.io/sass-2-proje/)
 [Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | ![bütçe](https://github.com/kamilarici/gider-uyg/assets/129012602/2a0be83a-a944-4574-b34b-a7c0bcea2138)
 [Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | ![guess](https://github.com/kamilarici/tw5-2/assets/129012602/ad99c658-c09e-439d-9f2d-864ce85faeff)
-[Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Meyve Bahçesi Web Sitesi](https://kamilarici.github.io/bootstrap-3/)
+[Live Link](https://kamilarici.github.io/weader/)| HTML,CSS,JAVASCRİPT | ![weader](https://github.com/kamilarici/weader/assets/129012602/458d8266-12b9-4d8e-af8c-31a1ce9512fd)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP |![gif](https://github.com/kamilarici/bootstrap-3/assets/129012602/29a0143e-f3c5-45db-987e-6f32c77dfb98)
 [Live Link](https://kamilarici.github.io/coin/)| HTML,CSS,JAVASCRİPT |![coin](https://github.com/kamilarici/coin/assets/129012602/6a35156d-f499-47eb-8750-26ac2aae477d))
 [Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | ![click](https://github.com/kamilarici/js-event/assets/129012602/bb60489e-b8b8-4119-8b8b-d716c7a66c3b)
