@@ -42,7 +42,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://github.com/kamilarici/tw8-2-react-comp)| REACT,HTML,CSS,JAVASCRİPT |![kedi](https://github.com/kamilarici/tw8-2-react-comp/assets/129012602/00a815d6-07f1-4026-8ebb-565d13fca4f9)
 [Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | [Travel Web Site](https://kamilarici.github.io/sass-2-proje/)
 [Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | ![bütçe](https://github.com/kamilarici/gider-uyg/assets/129012602/2a0be83a-a944-4574-b34b-a7c0bcea2138)
-[Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | ![hesap makinası](https://github.com/kamilarici/tw5-2/assets/129012602/db4cb644-390b-40a3-8d6c-a10b1ebcd19a)
+[Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | ![guess](https://github.com/kamilarici/tw5-2/assets/129012602/ad99c658-c09e-439d-9f2d-864ce85faeff)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Meyve Bahçesi Web Sitesi](https://kamilarici.github.io/bootstrap-3/)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP |![gif](https://github.com/kamilarici/bootstrap-3/assets/129012602/29a0143e-f3c5-45db-987e-6f32c77dfb98)
 [Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | ![click](https://github.com/kamilarici/js-event/assets/129012602/bb60489e-b8b8-4119-8b8b-d716c7a66c3b)
