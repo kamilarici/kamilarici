@@ -45,6 +45,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | ![guess](https://github.com/kamilarici/tw5-2/assets/129012602/ad99c658-c09e-439d-9f2d-864ce85faeff)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP | [Meyve Bahçesi Web Sitesi](https://kamilarici.github.io/bootstrap-3/)
 [Live Link](https://kamilarici.github.io/bootstrap-3/)| HTML,BOOTSTRAP |![gif](https://github.com/kamilarici/bootstrap-3/assets/129012602/29a0143e-f3c5-45db-987e-6f32c77dfb98)
+[Live Link](https://kamilarici.github.io/coin/)| HTML,CSS,JAVASCRİPT |![gif](![coin](https://github.com/kamilarici/coin/assets/129012602/6a35156d-f499-47eb-8750-26ac2aae477d))
 [Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | ![click](https://github.com/kamilarici/js-event/assets/129012602/bb60489e-b8b8-4119-8b8b-d716c7a66c3b)
 [Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | [Bellona Web Sitesi](https://kamilarici.github.io/proje-bellona/)
 [Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS,BOOTSTRAP,JAVASCRİPT | ![hesap makinası](https://github.com/kamilarici/tw7-1/assets/129012602/d4acdbdf-9143-4b9e-989e-6202025d9d16)
