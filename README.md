@@ -51,7 +51,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/api/)| HTML,CSS,JAVASCRİPT |![api](https://github.com/kamilarici/api/assets/129012602/7d46a227-75f9-4e48-b3e7-f83b22df33d1)
 [Live Link](https://kamilarici.github.io/searchapp-fech-api/)| HTML,CSS,JAVASCRİPT | ![car](https://github.com/kamilarici/searchapp-fech-api/assets/129012602/461f82f3-9918-48d5-99a9-4ad8b7e2bd0f)
 [Live Link](https://kamilarici.github.io/js-event/)| HTML,JAVASCRİPT | ![click](https://github.com/kamilarici/js-event/assets/129012602/bb60489e-b8b8-4119-8b8b-d716c7a66c3b)
-[Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | [Bellona Web Sitesi](https://kamilarici.github.io/proje-bellona/)
+[Live Link](https://kamilarici.github.io/proje-bellona/)| HTML,BOOTSTRAP | ![bellona2](https://github.com/kamilarici/proje-bellona/assets/129012602/cabc968e-130f-4c5c-a1ab-1addedbfb8d6)
 [Live Link](https://kamilarici.github.io/TW4/)| HTML,CSS,BOOTSTRAP,JAVASCRİPT | ![hesap makinası](https://github.com/kamilarici/tw7-1/assets/129012602/d4acdbdf-9143-4b9e-989e-6202025d9d16)
 [Live Link](https://kamilarici.github.io/google/)<h3>[Repo](https://kamilarici.github.io/google/)</h3> | HTML, CSS |![Animation taş](https://user-images.githubusercontent.com/118935193/213815321-09feac7b-80c9-4da1-b709-12079f7a22c4.gif)
 [Live Link](https://kamilarici.github.io/teamwork-uygulama1/)<h3>[Repo]( https://kamilarici.github.io/teamwork-uygulama1/)</h3> | HTML, CSS | ![Animation pa](https://user-images.githubusercontent.com/118935193/216319104-ea60391d-fba6-46bc-a99c-f6237f9887b3.gif)
