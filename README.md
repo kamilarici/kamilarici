@@ -4,7 +4,6 @@
  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
  
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilarici&label=Profile%20views&color=0e75b6&style=flat" alt="kamil" /> </p>
 
 ✨ kamil here ✨ I'm a junior frontend developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
 
