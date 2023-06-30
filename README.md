@@ -40,7 +40,6 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [Live Link](https://github.com/kamilarici/tw8-2-react-comp)| REACT,HTML,CSS,JAVASCRİPT |![kedi](https://github.com/kamilarici/tw8-2-react-comp/assets/129012602/00a815d6-07f1-4026-8ebb-565d13fca4f9)
 [Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | ![sass2](https://github.com/kamilarici/sass-2-proje/assets/129012602/7175b82d-6c97-4ee2-acff-0737bc0ce221)
-
 [Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | ![bütçe](https://github.com/kamilarici/gider-uyg/assets/129012602/2a0be83a-a944-4574-b34b-a7c0bcea2138)
 [Live Link](https://kamilarici.github.io/tw5-2/)| HTML,JAVASCRİPT | ![guess](https://github.com/kamilarici/tw5-2/assets/129012602/ad99c658-c09e-439d-9f2d-864ce85faeff)
 [Live Link](https://kamilarici.github.io/sepet-uygulamas-/)| HTML,JAVASCRİPT | ![sepet](https://github.com/kamilarici/sepet-uygulamas-/assets/129012602/0c2a3b3f-ed53-4ab1-8b09-b69a36004587)
