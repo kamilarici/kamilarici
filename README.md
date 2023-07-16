@@ -21,11 +21,12 @@ You may find some projects on my repos, feel free to contribute or using them. K
 <h2 align="center">:rocket:Technical Skills</h2>
 <div>
      <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a> 
-    <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html" height="60"/> </a> 
-   <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="css" height="60"/> </a>
+     <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html" height="60"/> </a> 
+    <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/303263/css3-logo.svg" alt="css" height="60"/> </a>
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
      <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" height="50"/> </a> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="50" alt="sass" />
+    <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" height="60"/> </a>
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
      <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="50" alt="figma" />
