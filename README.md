@@ -35,6 +35,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs-code" height="50"/> </a>
      <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/354354/slack-icon.svg" height="50"/> </a>
     <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="50"/> </a>
+    <a href="#" target="_blank"><img src="https://styled-components.com/logo.png" width="60" alt="styledcomponent" /</a>
   </div>  
   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
