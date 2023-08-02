@@ -5,7 +5,7 @@
  
 
 
-✨ kamil here ✨ I'm a junior frontend developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
+✨ kamil here ✨ I'm a frontend developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
 
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamilarici&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
