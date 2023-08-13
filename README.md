@@ -40,7 +40,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
     <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" height="50"/> </a> 
      <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="redux" width="50"/> </a>
     <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="materialUI" height="50"/> </a> 
-    ![formik](https://github.com/kamilarici/stock-app-admin-mui-/assets/129012602/4928b5fa-cf1b-4b92-b234-92b0aa3babd0)
+
      
   </div>  
   
