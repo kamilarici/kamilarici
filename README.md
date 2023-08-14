@@ -50,6 +50,8 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+
+[Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | ![sass2](![library](https://github.com/kamilarici/google-library-styled-comp./assets/129012602/2f19a5f8-f74c-4d68-b07b-07b46bf91c8d))
 [Live Link](https://github.com/kamilarici/tw8-2-react-comp)| REACT,HTML,CSS,JAVASCRİPT |![kedi](https://github.com/kamilarici/tw8-2-react-comp/assets/129012602/00a815d6-07f1-4026-8ebb-565d13fca4f9)
 [Live Link](https://kamilarici.github.io/sass-2-proje/)| HTML,CSS,SASS | ![sass2](https://github.com/kamilarici/sass-2-proje/assets/129012602/7175b82d-6c97-4ee2-acff-0737bc0ce221)
 [Live Link](https://kamilarici.github.io/gider-uyg/)| HTML,CSS,JAVASCRİPT | ![bütçe](https://github.com/kamilarici/gider-uyg/assets/129012602/2a0be83a-a944-4574-b34b-a7c0bcea2138)
