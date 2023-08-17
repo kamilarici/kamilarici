@@ -50,8 +50,12 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Live Link](https://google-library.vercel.app/)| REACT, HTML,CSS,BOOTSTRAP |![google library](https://github.com/kamilarici/google-library-styled-comp./assets/129012602/df2d4c05-5874-4566-8b6c-c30554239381)
+[Live Link](https://movie-app-psi-ochre.vercel.app/)| REACT,TAİLWİND, HTML,CSS | ![movie app](https://github.com/kamilarici/firebase-movie-app-tailwind/assets/129012602/5b864372-de36-406b-b95a-6ecd89420b8e)
+[Live Link](https://shopping-cart-tailwind-umber.vercel.app/)| REACT,TAİLWİND, HTML,CSS | ![shopping](https://github.com/kamilarici/shopping-cart-tailwind/assets/129012602/4069b0a0-5cbd-487c-9c5d-a1e28d906ca5)
+[Live Link](https://appointment-app-five.vercel.app/)| REACT, HTML,CSS | ![appointment randevu](https://github.com/kamilarici/Appointment-app/assets/129012602/6497def5-6df8-4bd6-9453-8b93ba289ccc)
+[Live Link](https://google-library.vercel.app/)| REACT, HTML,CSS |![google library](https://github.com/kamilarici/google-library-styled-comp./assets/129012602/df2d4c05-5874-4566-8b6c-c30554239381)
 [Live Link](https://product-list-beta.vercel.app/)| REACT, HTML,CSS,BOOTSTRAP | ![product list](https://github.com/kamilarici/product-list/assets/129012602/356c64e8-cbd9-4fed-a946-c58ecd6832b8)
+[Live Link](https://movie-info-nu.vercel.app/)| REACT, HTML,CSS,BOOTSTRAP | ![movie info](https://github.com/kamilarici/Movie-Info/assets/129012602/fe4622e3-8c39-46cc-a502-9d84d976ac5e)
 [Live Link](https://bmi-calculater-nine.vercel.app/)| REACT, HTML,CSS | ![bmi](https://github.com/kamilarici/BMI-Calculater/assets/129012602/2240fc21-4861-419f-8238-eb097ed334f7)
 [Live Link](https://nba-tw-9.vercel.app/)| REACT, HTML,CSS | ![nba](https://github.com/kamilarici/NBA-TW9/assets/129012602/96e5e6a4-c79d-4992-8e41-99ac32567940)
 [Live Link](https://react-router-tw-11-2.vercel.app/projects)| REACT,SASS, HTML,CSS | ![react-router](https://github.com/kamilarici/react-router-scss-tw-11-2/assets/129012602/f2393a96-bb2f-4c3f-a1e7-16c2ee20cb14)
