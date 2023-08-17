@@ -87,7 +87,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Live Link](https://kamilarici.github.io/cw-assignment1/)| HTML,CSS | ![portfolio](https://github.com/kamilarici/cw-assignment1/assets/129012602/ed2f26a2-5e14-436f-9bf5-dfbc7f194332)
 [Live Link](https://kamilarici.github.io/pos-fix1/)| HTML,CSS | [pos-fix](https://kamilarici.github.io/pos-fix1/)
 [Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS |![web](https://github.com/kamilarici/tw3-20-05/assets/129012602/bd30afe6-8024-4992-bcc4-73e6b4f32cdb)
-[Live Link](https://kamilarici.github.io/tw3-20-05/)| HTML,CSS |![library](https://github.com/kamilarici/google-library-styled-comp./assets/129012602/2f19a5f8-f74c-4d68-b07b-07b46bf91c8d)
+
 
 <h3 align="center">📈 Statistics:</h3>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
