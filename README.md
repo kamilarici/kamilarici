@@ -50,6 +50,8 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[Live Link](https://mushroom-woad.vercel.app/#horoscope)| REACT, HTML,CSS | ![mantar](https://github.com/kamilarici/mushroom/assets/129012602/760ab997-88bf-46ba-8c30-b31db473f6bf)
+[Live Link](https://router-burger-app.vercel.app/menu)| REACT, HTML,CSS | ![burger](https://github.com/kamilarici/router-burger-app/assets/129012602/ad1594b0-5a4a-454c-a0bb-cb908085a4d1)
 [Live Link](https://form-full.vercel.app/)| REACT, HTML,CSS,BOOTSTRAP |![form full](https://github.com/kamilarici/form-full/assets/129012602/57d6c1d9-4ce0-4549-8811-4202696529e3)
 [Live Link](https://todo-react-amber-two.vercel.app/)| REACT, HTML,CSS,BOOTSTRAP | ![todo](https://github.com/kamilarici/todo-react/assets/129012602/25039869-fcc4-4ac1-bde7-f453324e2f2b)
 [Live Link](https://accord-tw10-1.vercel.app/)| REACT, HTML,CSS | ![accord](https://github.com/kamilarici/accord-tw10-1/assets/129012602/525431f5-5467-45bd-bee3-b46705e9af1b)
